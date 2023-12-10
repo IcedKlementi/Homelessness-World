@@ -136,11 +136,6 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"my_door"
-                }, 
-                {
-                 "name":"tag",
-                 "type":"string",
-                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -202,11 +197,6 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"my_door2"
-                }, 
-                {
-                 "name":"tag",
-                 "type":"string",
-                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -600,7 +590,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":26.1666666666667,
                  "id":18,
                  "name":"to-Block4",
@@ -611,13 +600,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/block4_v2#from-BB-court"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":114.333333333333,
                  "x":488.166666666667,
                  "y":129.333333333333
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":39,
                  "name":"from-Block4",
@@ -628,13 +617,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":672,
                  "y":192
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":46,
                  "name":"from-Job",
@@ -645,13 +634,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":864,
                  "y":224
                 }, 
                 {
-                 "class":"area",
                  "height":88,
                  "id":47,
                  "name":"to-Job",
@@ -662,13 +651,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/job-interview#from-BB-court"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":26,
                  "x":1030,
                  "y":228.5
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":48,
                  "name":"my_door2",
@@ -700,13 +689,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":622.499,
                  "y":125.666
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":49,
                  "name":"my_door",
@@ -738,6 +727,7 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":1007.5,
@@ -829,7 +819,7 @@
          "value":"src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.1",
  "tileheight":32,
  "tilesets":[
         {
@@ -1185,6 +1175,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":36
 }

@@ -136,11 +136,6 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"doorVariable"
-                }, 
-                {
-                 "name":"tag",
-                 "type":"string",
-                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -202,11 +197,6 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"door2Variable"
-                }, 
-                {
-                 "name":"tag",
-                 "type":"string",
-                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -560,7 +550,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":32,
                  "id":54,
                  "name":"from-BB-court",
@@ -571,13 +560,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":320,
                  "x":320,
                  "y":640
                 }, 
                 {
-                 "class":"area",
                  "height":27.5,
                  "id":55,
                  "name":"to-BB-court",
@@ -588,13 +577,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/basketball_court_v2#from-Job"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":512,
                  "y":772.5
                 }, 
                 {
-                 "class":"area",
                  "height":144,
                  "id":56,
                  "name":"Website",
@@ -620,13 +609,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":224,
                  "x":32,
                  "y":544
                 }, 
                 {
-                 "class":"area",
                  "height":160,
                  "id":57,
                  "name":"Website",
@@ -652,13 +641,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":153,
                  "x":39,
                  "y":128
                 }, 
                 {
-                 "class":"area",
                  "height":160,
                  "id":58,
                  "name":"Website",
@@ -684,13 +673,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":151,
                  "x":329,
                  "y":128
                 }, 
                 {
-                 "class":"area",
                  "height":160,
                  "id":59,
                  "name":"Website",
@@ -716,13 +705,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":152,
                  "x":640,
                  "y":128
                 }, 
                 {
-                 "class":"area",
                  "height":160,
                  "id":60,
                  "name":"Website",
@@ -748,6 +737,7 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":156,
                  "x":928,
@@ -765,7 +755,6 @@
          "name":"configuration",
          "objects":[
                 {
-                 "class":"variable",
                  "height":0,
                  "id":63,
                  "name":"doorVariable",
@@ -797,13 +786,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":299.666666666667,
                  "y":471.833333333333
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":69,
                  "name":"door2Variable",
@@ -835,6 +824,7 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":486.333333333333,
@@ -926,7 +916,7 @@
          "value":"src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.1",
  "tileheight":32,
  "tilesets":[
         {
@@ -1250,6 +1240,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":35
 }

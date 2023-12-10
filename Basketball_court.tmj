@@ -148,11 +148,6 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"my_door"
-                }, 
-                {
-                 "name":"tag",
-                 "type":"string",
-                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -218,11 +213,6 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"my_door2"
-                }, 
-                {
-                 "name":"tag",
-                 "type":"string",
-                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -288,11 +278,6 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"my_door3"
-                }, 
-                {
-                 "name":"tag",
-                 "type":"string",
-                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -358,11 +343,6 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"my_door4"
-                }, 
-                {
-                 "name":"tag",
-                 "type":"string",
-                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -428,11 +408,6 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"my_door5"
-                }, 
-                {
-                 "name":"tag",
-                 "type":"string",
-                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,

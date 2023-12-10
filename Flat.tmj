@@ -160,11 +160,6 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"my_door"
-                }, 
-                {
-                 "name":"tag",
-                 "type":"string",
-                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -486,7 +481,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":64,
                  "id":54,
                  "name":"from-Block4",
@@ -497,13 +491,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":160,
                  "x":544,
                  "y":864
                 }, 
                 {
-                 "class":"area",
                  "height":26.5000333333333,
                  "id":55,
                  "name":"to-Block4",
@@ -514,13 +508,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/block4#from-Flat"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64,
                  "x":640,
                  "y":1028.16666666667
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":56,
                  "name":"Pic1",
@@ -541,13 +535,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":128,
                  "x":704,
                  "y":608
                 }, 
                 {
-                 "class":"area",
                  "height":128,
                  "id":57,
                  "name":"Pic2",
@@ -568,13 +562,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":128,
                  "x":512,
                  "y":448
                 }, 
                 {
-                 "class":"area",
                  "height":160,
                  "id":58,
                  "name":"Pic3",
@@ -595,13 +589,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":94,
                  "x":610,
                  "y":192
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":60,
                  "name":"my_door",
@@ -633,6 +627,7 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":624.666666666667,
@@ -732,7 +727,7 @@
          "value":"src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.1",
  "tileheight":32,
  "tilesets":[
         {
@@ -966,6 +961,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":38
 }

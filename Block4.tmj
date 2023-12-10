@@ -160,11 +160,6 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"my_door"
-                }, 
-                {
-                 "name":"tag",
-                 "type":"string",
-                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -234,11 +229,6 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"my_door2"
-                }, 
-                {
-                 "name":"tag",
-                 "type":"string",
-                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -656,7 +646,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":32,
                  "id":19,
                  "name":"from-BB-court",
@@ -667,13 +656,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":316,
                  "x":676,
                  "y":960
                 }, 
                 {
-                 "class":"area",
                  "height":27.3333333333333,
                  "id":37,
                  "name":"to-BB-court",
@@ -684,79 +673,79 @@
                          "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/basketball-court#from-Block4"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":114.666666666667,
                  "x":774.666666666667,
                  "y":1028.66666666667
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":38,
                  "name":"phrase01",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":97.5,
                  "x":575.166666666667,
                  "y":896.750166666667
                 }, 
                 {
-                 "class":"",
                  "height":59.8336,
                  "id":39,
                  "name":"phrase01Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":190,
                  "x":529.666666666667,
                  "y":804.583166666667
                 }, 
                 {
-                 "class":"",
                  "height":95.0419333333333,
                  "id":40,
                  "name":"phrase02Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":285.75,
                  "x":1186.25,
                  "y":768
                 }, 
                 {
-                 "class":"area",
                  "height":75.167,
                  "id":41,
                  "name":"phrase02",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":89,
                  "x":1283.333,
                  "y":917.124666666667
                 }, 
                 {
-                 "class":"",
                  "height":95.0419,
                  "id":42,
                  "name":"phrase03Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":285.75,
                  "x":1071.125,
                  "y":767.854
                 }, 
                 {
-                 "class":"area",
                  "height":75.167,
                  "id":43,
                  "name":"phrase03",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":95.6666666666667,
                  "x":1184.205,
                  "y":916.979
                 }, 
                 {
-                 "class":"area",
                  "height":95.3333333333334,
                  "id":44,
                  "name":"from-Flat",
@@ -767,13 +756,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96.6666666666665,
                  "x":1056,
                  "y":928
                 }, 
                 {
-                 "class":"area",
                  "height":28.166666666667,
                  "id":45,
                  "name":"to-Flat",
@@ -784,13 +773,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/flat#from-Block4"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":32,
                  "x":1248,
                  "y":864
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":46,
                  "name":"my_door2",
@@ -822,13 +811,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":750.332333333333,
                  "y":1019.33266666667
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":47,
                  "name":"my_door",
@@ -860,6 +849,7 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":1235,
@@ -959,7 +949,7 @@
          "value":"src\/block4.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.1",
  "tileheight":32,
  "tilesets":[
         {
@@ -1193,6 +1183,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":51
 }

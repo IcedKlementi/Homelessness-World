@@ -160,11 +160,6 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"my_door"
-                }, 
-                {
-                 "name":"tag",
-                 "type":"string",
-                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -234,11 +229,6 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"my_door2"
-                }, 
-                {
-                 "name":"tag",
-                 "type":"string",
-                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -898,7 +888,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":71.612250966399,
                  "id":19,
                  "name":"website",
@@ -924,13 +913,13 @@
                          "value":"Press SPACE or touch here to open a website"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":126,
                  "x":161,
                  "y":84
                 }, 
                 {
-                 "class":"area",
                  "height":27.3333333333333,
                  "id":22,
                  "name":"to-BB-court",
@@ -941,13 +930,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/basketball-court#from-office"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64,
                  "x":416,
                  "y":1028.66666666667
                 }, 
                 {
-                 "class":"area",
                  "height":64,
                  "id":23,
                  "name":"from-tutorial",
@@ -958,35 +947,35 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":128,
                  "x":352,
                  "y":160
                 }, 
                 {
-                 "class":"",
                  "height":61.6673,
                  "id":28,
                  "name":"clockPopup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":93.7162,
                  "x":625.1315,
                  "y":37.66494
                 }, 
                 {
-                 "class":"area",
                  "height":64,
                  "id":29,
                  "name":"clock",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64.1364999999999,
                  "x":640,
                  "y":128
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":30,
                  "name":"Website",
@@ -1012,13 +1001,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":288,
                  "y":320
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":31,
                  "name":"Website",
@@ -1044,13 +1033,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":288,
                  "y":448
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":32,
                  "name":"Website",
@@ -1076,13 +1065,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":288,
                  "y":576
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":33,
                  "name":"Website",
@@ -1108,13 +1097,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":288,
                  "y":704
                 }, 
                 {
-                 "class":"area",
                  "height":128,
                  "id":34,
                  "name":"Info",
@@ -1135,13 +1124,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":128,
                  "x":608,
                  "y":256
                 }, 
                 {
-                 "class":"area",
                  "height":128,
                  "id":35,
                  "name":"Info",
@@ -1162,13 +1151,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":128,
                  "x":608,
                  "y":512
                 }, 
                 {
-                 "class":"area",
                  "height":128,
                  "id":36,
                  "name":"Info",
@@ -1189,35 +1178,35 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":128,
                  "x":608,
                  "y":768
                 }, 
                 {
-                 "class":"area",
                  "height":66.0001666666666,
                  "id":37,
                  "name":"phrase06",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":67.3333333333333,
                  "x":494.333333333333,
                  "y":157.999833333333
                 }, 
                 {
-                 "class":"",
                  "height":64,
                  "id":38,
                  "name":"phrase06Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":160,
                  "x":448,
                  "y":64
                 }, 
                 {
-                 "class":"area",
                  "height":27.1666666666667,
                  "id":39,
                  "name":"to-tutorial",
@@ -1228,13 +1217,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/tutorial#from-office"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64,
                  "x":416,
                  "y":64
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":40,
                  "name":"from-BB-court",
@@ -1245,13 +1234,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":224,
                  "x":544,
                  "y":928
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":43,
                  "name":"my_door2",
@@ -1283,13 +1272,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":356.333333333333,
                  "y":937.333333333333
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":45,
                  "name":"my_door",
@@ -1321,6 +1310,7 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":398.666666666667,
@@ -1338,7 +1328,6 @@
          "name":"configuration",
          "objects":[
                 {
-                 "class":"variable",
                  "height":0,
                  "id":20,
                  "name":"websiteURL",
@@ -1365,6 +1354,7 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":304.52245019328,
@@ -1470,7 +1460,7 @@
          "value":"src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.1",
  "tileheight":32,
  "tilesets":[
         {
@@ -1996,6 +1986,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":27
 }

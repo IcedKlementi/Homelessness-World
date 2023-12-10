@@ -118,11 +118,6 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"my_door"
-                }, 
-                {
-                 "name":"tag",
-                 "type":"string",
-                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -178,11 +173,6 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"my_door2"
-                }, 
-                {
-                 "name":"tag",
-                 "type":"string",
-                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -454,29 +444,28 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":109.333333333333,
                  "id":25,
                  "name":"phrase01",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64.1666666666667,
                  "x":479,
                  "y":606.333333333333
                 }, 
                 {
-                 "class":"",
                  "height":59.83365,
                  "id":26,
                  "name":"phrase01Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":190,
                  "x":411,
                  "y":515
                 }, 
                 {
-                 "class":"area",
                  "height":160,
                  "id":54,
                  "name":"from-Supermarket",
@@ -487,13 +476,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64,
                  "x":64,
                  "y":576
                 }, 
                 {
-                 "class":"area",
                  "height":87.833333333333,
                  "id":55,
                  "name":"to-BB-court",
@@ -504,57 +493,57 @@
                          "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/basketball-court#from-School"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":27,
                  "x":1061,
                  "y":611.333333333333
                 }, 
                 {
-                 "class":"area",
                  "height":106.666666666667,
                  "id":56,
                  "name":"phrase02",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":78.5,
                  "x":553.5,
                  "y":546.666666666667
                 }, 
                 {
-                 "class":"",
                  "height":59.8336,
                  "id":57,
                  "name":"phrase02Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":190,
                  "x":502.5,
                  "y":453.999833333334
                 }, 
                 {
-                 "class":"area",
                  "height":112,
                  "id":58,
                  "name":"phrase03",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":87.6666666666666,
                  "x":650.833333333333,
                  "y":605.333333333334
                 }, 
                 {
-                 "class":"",
                  "height":59.8336,
                  "id":59,
                  "name":"phrase03Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":190,
                  "x":602.499999999999,
                  "y":517.499833333334
                 }, 
                 {
-                 "class":"area",
                  "height":160,
                  "id":60,
                  "name":"Website",
@@ -580,13 +569,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":120.5,
                  "x":128,
                  "y":576
                 }, 
                 {
-                 "class":"area",
                  "height":158.166666666667,
                  "id":61,
                  "name":"Website",
@@ -612,13 +601,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":126.5,
                  "x":305.166666666667,
                  "y":577.5
                 }, 
                 {
-                 "class":"area",
                  "height":160,
                  "id":62,
                  "name":"Website",
@@ -644,13 +633,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":864,
                  "y":576
                 }, 
                 {
-                 "class":"area",
                  "height":86.6667,
                  "id":63,
                  "name":"to-Supermarket",
@@ -661,13 +650,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/supermarket#from-School"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":25.3333333333333,
                  "x":0,
                  "y":612
                 }, 
                 {
-                 "class":"area",
                  "height":160,
                  "id":65,
                  "name":"from-BB-court",
@@ -678,13 +667,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":64,
                  "x":960,
                  "y":576
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":68,
                  "name":"my_door2",
@@ -716,13 +705,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":1071.337,
                  "y":589.663333333333
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":69,
                  "name":"my_door",
@@ -754,6 +743,7 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":15.3333333333333,
@@ -839,7 +829,7 @@
          "value":"src\/School.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.1",
  "tileheight":32,
  "tilesets":[
         {
@@ -1132,6 +1122,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":37
 }
