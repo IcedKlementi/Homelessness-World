@@ -1124,7 +1124,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/test\/block4#from-BB-court"
+                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/block4#from-BB-court"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -1175,7 +1175,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/test\/office#from-BB-court"
+                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/office#from-BB-court"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -1192,7 +1192,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/test\/supermarket#from-BB-court"
+                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/supermarket#from-BB-court"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -1243,7 +1243,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/test\/primary-school#from-BB-court"
+                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/primary-school#from-BB-court"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -1277,7 +1277,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/test\/job-interview#from-BB-court"
+                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/job-interview#from-BB-court"
                         }],
                  "rotation":0,
                  "visible":true,

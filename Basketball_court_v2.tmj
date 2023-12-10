@@ -608,7 +608,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/test\/block4_v2#from-BB-court"
+                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/block4_v2#from-BB-court"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -659,7 +659,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/test\/job-interview#from-BB-court"
+                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/job-interview#from-BB-court"
                         }],
                  "rotation":0,
                  "visible":true,

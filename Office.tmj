@@ -938,7 +938,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/test\/basketball-court#from-office"
+                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/basketball-court#from-office"
                         }],
                  "rotation":0,
                  "visible":true,
@@ -1225,7 +1225,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/test\/tutorial#from-office"
+                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/tutorial#from-office"
                         }],
                  "rotation":0,
                  "visible":true,
