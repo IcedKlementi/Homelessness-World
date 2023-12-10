@@ -1027,7 +1027,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map.tmj#from-Tutorial"
+                         "value":"tutorial#from-Tutorial"
                         }],
                  "rotation":0,
                  "type":"area",
