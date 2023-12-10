@@ -1027,7 +1027,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"tutorial#from-Tutorial"
+                         "value":"#from-Tutorial"
                         }],
                  "rotation":0,
                  "type":"area",
