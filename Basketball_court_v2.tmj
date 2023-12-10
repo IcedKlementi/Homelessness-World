@@ -120,7 +120,7 @@
                 {
                  "name":"autoClose",
                  "type":"bool",
-                 "value":false
+                 "value":true
                 }, 
                 {
                  "name":"autoOpen",
@@ -181,7 +181,7 @@
                 {
                  "name":"autoClose",
                  "type":"bool",
-                 "value":false
+                 "value":true
                 }, 
                 {
                  "name":"autoOpen",
@@ -406,6 +406,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":29,
          "id":82,
+         "locked":true,
          "name":"Door_closed",
          "opacity":1,
          "type":"tilelayer",
@@ -597,7 +598,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/block_4_1#from-BB-court"
+                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/block_4_2#from-BB-court"
                         }],
                  "rotation":0,
                  "type":"area",

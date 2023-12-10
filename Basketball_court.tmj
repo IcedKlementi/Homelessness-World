@@ -132,7 +132,7 @@
                 {
                  "name":"autoClose",
                  "type":"bool",
-                 "value":false
+                 "value":true
                 }, 
                 {
                  "name":"autoOpen",
@@ -197,7 +197,7 @@
                 {
                  "name":"autoClose",
                  "type":"bool",
-                 "value":false
+                 "value":true
                 }, 
                 {
                  "name":"autoOpen",
@@ -262,7 +262,7 @@
                 {
                  "name":"autoClose",
                  "type":"bool",
-                 "value":false
+                 "value":true
                 }, 
                 {
                  "name":"autoOpen",
@@ -327,7 +327,7 @@
                 {
                  "name":"autoClose",
                  "type":"bool",
-                 "value":false
+                 "value":true
                 }, 
                 {
                  "name":"autoOpen",
@@ -392,7 +392,7 @@
                 {
                  "name":"autoClose",
                  "type":"bool",
-                 "value":false
+                 "value":true
                 }, 
                 {
                  "name":"autoOpen",
@@ -1066,7 +1066,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/block4#from-BB-court"
+                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/block_4_1#from-BB-court"
                         }],
                  "rotation":0,
                  "type":"area",

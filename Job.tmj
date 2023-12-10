@@ -120,7 +120,7 @@
                 {
                  "name":"autoClose",
                  "type":"bool",
-                 "value":false
+                 "value":true
                 }, 
                 {
                  "name":"autoOpen",
@@ -181,7 +181,7 @@
                 {
                  "name":"autoClose",
                  "type":"bool",
-                 "value":false
+                 "value":true
                 }, 
                 {
                  "name":"autoOpen",
