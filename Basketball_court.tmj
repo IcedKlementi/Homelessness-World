@@ -1084,39 +1084,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
-                 "height":438,
-                 "id":13,
-                 "name":"jitsiBasketball-field",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"Basketball-field"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":226,
-                 "x":413,
-                 "y":324
-                }, 
-                {
-                 "class":"area",
                  "height":26.1666666666672,
                  "id":18,
                  "name":"to-Block4",
@@ -1127,13 +1094,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/block4#from-BB-court"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":114.666666666667,
                  "x":488,
                  "y":127.333333333333
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":39,
                  "name":"from-Block4",
@@ -1144,13 +1111,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":672,
                  "y":192
                 }, 
                 {
-                 "class":"area",
                  "height":64,
                  "id":40,
                  "name":"from-office",
@@ -1161,13 +1128,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":128,
                  "x":864,
                  "y":768
                 }, 
                 {
-                 "class":"area",
                  "height":119.333333333333,
                  "id":41,
                  "name":"to-Office",
@@ -1178,13 +1145,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/office#from-BB-court"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":26.0000000000005,
                  "x":1028.66666666667,
                  "y":740.333333333333
                 }, 
                 {
-                 "class":"area",
                  "height":26.1212454545454,
                  "id":42,
                  "name":"to-Supermarket",
@@ -1195,13 +1162,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/supermarket#from-BB-court"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":118.181818181818,
                  "x":484.909090909091,
                  "y":900.727272727273
                 }, 
                 {
-                 "class":"area",
                  "height":64,
                  "id":43,
                  "name":"from-Supermarket",
@@ -1212,13 +1179,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":128,
                  "x":672,
                  "y":832
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":44,
                  "name":"from-School",
@@ -1229,13 +1196,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":96,
                  "y":256
                 }, 
                 {
-                 "class":"area",
                  "height":120.666666666667,
                  "id":45,
                  "name":"to-School",
@@ -1246,13 +1213,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/primary-school#from-BB-court"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":29.3333333333333,
                  "x":-2.22044604925031e-15,
                  "y":227.666666666667
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":46,
                  "name":"from-Job",
@@ -1263,13 +1230,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":864,
                  "y":256
                 }, 
                 {
-                 "class":"area",
                  "height":113.333333333333,
                  "id":47,
                  "name":"to-Job",
@@ -1280,13 +1247,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/job-interview#from-BB-court"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":25.0000000000002,
                  "x":1029.33333333333,
                  "y":231.333333333333
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":48,
                  "name":"my_door2",
@@ -1318,13 +1285,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":462.999333333333,
                  "y":887.333
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":49,
                  "name":"my_door",
@@ -1356,13 +1323,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":1005,
                  "y":727.666666666667
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":50,
                  "name":"my_door3",
@@ -1394,13 +1361,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":48,
                  "y":214
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":51,
                  "name":"my_door4",
@@ -1432,13 +1399,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":622.666666666667,
                  "y":124
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":52,
                  "name":"my_door5",
@@ -1470,6 +1437,7 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":1008,
@@ -1565,7 +1533,7 @@
          "value":"src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.1",
  "tileheight":32,
  "tilesets":[
         {
@@ -1921,6 +1889,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":36
 }
