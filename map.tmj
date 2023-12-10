@@ -147,7 +147,7 @@
                 {
                  "name":"autoClose",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"autoOpen",
@@ -1027,7 +1027,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"#from-Tutorial"
+                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/tutorial#from-Tutorial"
                         }],
                  "rotation":0,
                  "type":"area",
