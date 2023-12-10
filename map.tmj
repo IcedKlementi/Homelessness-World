@@ -157,7 +157,7 @@
                 {
                  "name":"code",
                  "type":"string",
-                 "value":"009"
+                 "value":"009A"
                 }, 
                 {
                  "name":"doorVariable",
@@ -658,7 +658,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"area",
                  "height":60,
                  "id":13,
                  "name":"jitsiChillZone",
@@ -684,13 +683,13 @@
                          "value":1
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":224,
                  "x":-265,
                  "y":753
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":14,
                  "name":"silentZone",
@@ -701,13 +700,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":223,
                  "x":-261.333333333333,
                  "y":633.333333333333
                 }, 
                 {
-                 "class":"area",
                  "height":27.6666666666666,
                  "id":18,
                  "name":"to-Office",
@@ -718,13 +717,13 @@
                          "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/office#from-tutorial"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":119.333333333333,
                  "x":1380.66666666667,
                  "y":704
                 }, 
                 {
-                 "class":"area",
                  "height":64,
                  "id":19,
                  "name":"from-office",
@@ -735,35 +734,35 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":128,
                  "x":1344,
                  "y":832
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":25,
                  "name":"phrase01",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":97.5,
                  "x":256,
                  "y":352
                 }, 
                 {
-                 "class":"",
                  "height":59.83365,
                  "id":26,
                  "name":"phrase01Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":190,
                  "x":210.5,
                  "y":259.833333333333
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":27,
                  "name":"Info UI",
@@ -784,35 +783,35 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1292.66666666667,
                  "y":352
                 }, 
                 {
-                 "class":"",
                  "height":97.3336,
                  "id":28,
                  "name":"phrase02Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":319.5,
                  "x":981.333333333333,
                  "y":224
                 }, 
                 {
-                 "class":"area",
                  "height":95.166666666667,
                  "id":29,
                  "name":"phrase02",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":92.3333333333333,
                  "x":1089.91666666667,
                  "y":352.333333333334
                 }, 
                 {
-                 "class":"area",
                  "height":110,
                  "id":30,
                  "name":"Info Woka",
@@ -833,123 +832,123 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1088,
                  "y":338
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":31,
                  "name":"phrase03",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":109.333333333333,
                  "x":1202.66666666667,
                  "y":576
                 }, 
                 {
-                 "class":"",
                  "height":78.8336,
                  "id":32,
                  "name":"phrase03Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":288,
                  "x":1101,
                  "y":412.249866666666
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":33,
                  "name":"phrase04",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":641.333333333333,
                  "y":575.333333333333
                 }, 
                 {
-                 "class":"",
                  "height":78.8336,
                  "id":34,
                  "name":"phrase04Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":288,
                  "x":542.333333333334,
                  "y":465.666666666667
                 }, 
                 {
-                 "class":"area",
                  "height":110.667,
                  "id":35,
                  "name":"phrase05",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":184.833333333333,
                  "x":268.666666666667,
                  "y":576
                 }, 
                 {
-                 "class":"",
                  "height":97.2501333333333,
                  "id":36,
                  "name":"phrase05Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":288,
                  "x":224,
                  "y":416
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":41,
                  "name":"phrase08",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":124,
                  "x":897.333333333333,
                  "y":576
                 }, 
                 {
-                 "class":"",
                  "height":78.8336,
                  "id":42,
                  "name":"phrase08Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":288,
                  "x":812.833333333333,
                  "y":434.416533333333
                 }, 
                 {
-                 "class":"area",
                  "height":158,
                  "id":43,
                  "name":"phrase09",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":129,
                  "x":319,
                  "y":737
                 }, 
                 {
-                 "class":"",
                  "height":78.8336,
                  "id":44,
                  "name":"phrase09Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":227,
                  "x":261,
                  "y":605.916533333333
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":45,
                  "name":"Info Settings",
@@ -970,13 +969,13 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":106,
                  "x":877.333333333333,
                  "y":352.666666666667
                 }, 
                 {
-                 "class":"area",
                  "height":110,
                  "id":46,
                  "name":"Info Lost",
@@ -997,35 +996,35 @@
                          "value":"Press SPACE to get information"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":95.9999999999991,
                  "x":641.666666666667,
                  "y":561.333333333333
                 }, 
                 {
-                 "class":"area",
                  "height":96,
                  "id":47,
                  "name":"phrase10",
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1215.33333333333,
                  "y":800
                 }, 
                 {
-                 "class":"",
                  "height":78.8336,
                  "id":48,
                  "name":"phrase10Popup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":288,
                  "x":1120,
                  "y":656.4585
                 }, 
                 {
-                 "class":"area",
                  "height":42.6666666666667,
                  "id":49,
                  "name":"Teleport here",
@@ -1036,13 +1035,13 @@
                          "value":"map.tmj#from-Tutorial"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":74.6666666666665,
                  "x":1216,
                  "y":533.333333333333
                 }, 
                 {
-                 "class":"area",
                  "height":93.3333333333334,
                  "id":50,
                  "name":"from-Tutorial",
@@ -1053,13 +1052,13 @@
                          "value":true
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":65.3333333333333,
                  "x":1216,
                  "y":353.333333333333
                 }, 
                 {
-                 "class":"area",
                  "height":141.6123,
                  "id":53,
                  "name":"website",
@@ -1085,13 +1084,13 @@
                          "value":"Press SPACE or touch here to open a website"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":136,
                  "x":554,
                  "y":751.19385
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":54,
                  "name":"my_door",
@@ -1123,13 +1122,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":1520,
                  "y":723
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":56,
                  "name":"my_door2",
@@ -1161,6 +1160,7 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":1195.5,
@@ -1261,7 +1261,7 @@
          "value":"src\/main.ts"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.1",
  "tileheight":32,
  "tilesets":[
         {
@@ -1635,6 +1635,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":56
 }
