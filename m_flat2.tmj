@@ -505,7 +505,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/block-4_2#from-Flat"
+                         "value":".\/m_block4_2.tmj#from-Flat"
                         }],
                  "rotation":0,
                  "type":"area",

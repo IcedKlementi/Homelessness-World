@@ -490,7 +490,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/basketball-court_1#from-School"
+                         "value":".\/m_basketballcourt.tmj#from-School"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -647,7 +647,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/supermarket#from-School"
+                         "value":".\/m_supermarket.tmj#from-School"
                         }],
                  "rotation":0,
                  "type":"area",

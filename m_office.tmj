@@ -927,7 +927,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/basketball-court_1#from-office"
+                         "value":".\/m_basketballcourt.tmj#from-office"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1214,7 +1214,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/tutorial#from-office"
+                         "value":".\/map.tmj#from-office"
                         }],
                  "rotation":0,
                  "type":"area",

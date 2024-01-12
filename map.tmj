@@ -709,7 +709,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/office#from-tutorial"
+                         "value":".\/m_office.tmj#from-tutorial"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1027,7 +1027,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/tutorial#from-Tutorial"
+                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world-1\/tutorial#from-Tutorial"
                         }],
                  "rotation":0,
                  "type":"area",

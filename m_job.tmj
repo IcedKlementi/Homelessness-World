@@ -574,7 +574,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/jalan-journey\/homelessness-world\/basketball-court_2#from-Job"
+                         "value":".\/m_basketballcourt_2.tmj#from-Job"
                         }],
                  "rotation":0,
                  "type":"area",
