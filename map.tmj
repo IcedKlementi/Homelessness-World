@@ -163,6 +163,11 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"my_door"
+                }, 
+                {
+                 "name":"tag",
+                 "type":"string",
+                 "value":"admin"
                 }],
          "type":"tilelayer",
          "visible":true,
